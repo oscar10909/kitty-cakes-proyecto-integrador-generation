@@ -29,7 +29,7 @@ body{
 
 /* Cursor de patita */
 body {
-    cursor: url('../img/cursor_kitty.cur'), auto;
+    cursor: url('../img/cursorKittyReducido.png'), auto;
 }
 
 /* borrar y poner en 0 el margen o el padding por defecto de bootstrap */
@@ -75,6 +75,7 @@ h5 {
 
 p {    
     font-size: 1.8rem;
+    
 }
 
 .text-descripcion {
@@ -178,10 +179,5 @@ preloader de la pagina
       transform: rotate(360deg);
     }
   }
-  
-/*   img{
-    margin: auto;
-    width: 150px;
-    } */
   
   /*Termina preloader*/ 
